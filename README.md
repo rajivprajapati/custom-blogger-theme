@@ -1,2 +1,2 @@
 # custom-blogger-theme
-### custom blogger theme for movies poster hosting
+### custom blogger theme for movies poster 
